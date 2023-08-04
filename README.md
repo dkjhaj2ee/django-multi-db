@@ -1,0 +1,1 @@
+** This sample project is for handling different databases in django
